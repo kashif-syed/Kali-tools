@@ -27,7 +27,7 @@ Sign up list for the Kali Linux Tools Research Project
     enumIAX -
     EyeWitness -
     Faraday -
-    Fierce -
+    Fierce - Kashif
     Firewalk -
     fragroute -
     fragrouter -
@@ -56,7 +56,7 @@ Sign up list for the Kali Linux Tools Research Project
     SMBMap -
     smtp-user-enum -
     snmp-check -
-    SPARTA -
+    SPARTA - 
     sslcaudit -
     SSLsplit -
     sslstrip -
